@@ -1,7 +1,7 @@
 **** Personal Finance ****
 
 
-Hi! This repos is created by Alvin Ulido Lumbanraja (hereafter referred to as "Licensor").
+Hi! This repository is created by Alvin Ulido Lumbanraja (hereafter referred to as "Licensor").
 
 All the spreadsheet and related intellectual properties here are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
 
